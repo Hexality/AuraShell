@@ -1,0 +1,10 @@
+{
+    "configurations": [
+      {
+        "name": "Launch Program",
+        "command": "quickshell --config ${cwd}",
+        "request": "launch",
+        "type": "node-terminal"
+      }
+    ]   
+}
